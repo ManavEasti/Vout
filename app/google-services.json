@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "38002491251",
+    "firebase_url": "https://video-call-2-5eec4.firebaseio.com",
+    "project_id": "video-call-2-5eec4",
+    "storage_bucket": "video-call-2-5eec4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38002491251:android:ec3c7fca46266076fb4f06",
+        "android_client_info": {
+          "package_name": "com.rcceasti.videocall2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38002491251-lr7ubj6e0kbhdfvv49ppo5sc4mmi1gpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL1nh_s5yohEVPxJCc5kEcZTL6Uh0oBvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38002491251-lr7ubj6e0kbhdfvv49ppo5sc4mmi1gpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

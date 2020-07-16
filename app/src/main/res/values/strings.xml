@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VOut</string>
+    <string name="todo">TODO</string>
+    <string name="powered_by_sas">Powered By ManavBrothers.org</string>
+    <string name="Vout">Vout</string>
+    <string name="login_with_phone">Login</string>
+    <string name="duo">Duo</string>
+    <string name="sq">Meeting</string>
+    <string name="settings">Settings</string>
+</resources>
